@@ -6,14 +6,12 @@ A MATLAB-based app capable of visualizing the shortest paths and spanning trees 
   * MATLAB R2019a or later.
 * Input file:
   * The file must be named 'Graph.dat', and must follow the given format:
+  <img align='right' width="150" height="150" src="https://github.com/takatz28/Dijkstra-Visualization/blob/main/docs/GraphFormat.JPG">
     * Node name must be numbers from 1-1000000
 	* Weights must be between 0-9 (indicated by red numbers in image)
-  <img align='right' width="100" height="100" src="https://github.com/takatz28/Dijkstra-Visualization/blob/main/docs/GraphFormat.JPG">
+  <img align='right' width="150" height="150" src="https://github.com/takatz28/Dijkstra-Visualization/blob/main/docs/GraphFormat.JPG">
 
-<p>
-
-
-</p>
+####
 #### Operating Modes:
 * _Auto:_
   * Allows the user to display an individual node's shortest path tree (SPT). The output file will consist of all possible paths for all nodes in the graph.
