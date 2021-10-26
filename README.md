@@ -11,6 +11,11 @@ A MATLAB-based app capable of visualizing the shortest paths and spanning trees 
 	* Weights must be between 0-9 (indicated by red numbers in image)
 
 
+
+
+
+
+
 #### Operating Modes:
 * _Auto:_
   * Allows the user to display an individual node's shortest path tree (SPT). The output file will consist of all possible paths for all nodes in the graph.
