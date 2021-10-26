@@ -9,7 +9,6 @@ A MATLAB-based app capable of visualizing the shortest paths and spanning trees 
   <img align='right' width="150" height="150" src="https://github.com/takatz28/Dijkstra-Visualization/blob/main/docs/GraphFormat.JPG">
     * Node name must be numbers from 1-1000000
 	* Weights must be between 0-9 (indicated by red numbers in image)
-  <img align='right' width="150" height="150" src="https://github.com/takatz28/Dijkstra-Visualization/blob/main/docs/GraphFormat.JPG">
 
 ####
 #### Operating Modes:
