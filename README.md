@@ -1,17 +1,19 @@
 # Dijkstra Algorithm Visualizer
 A MATLAB-based app capable of visualizing the shortest paths and spanning trees from an input directed graph using the Dijkstra algorithm.
 
-#### Requirements
+### Requirements
 * Software:
   * MATLAB R2019a or later.
 * Input file:
   <img align='right' width="150" height="150" src="https://github.com/takatz28/Dijkstra-Visualization/blob/main/docs/GraphFormat.JPG">
   * The file must be named 'Graph.dat', and must follow the given format:
-    * Node name must be numbers from 1-1000000
-	* Weights must be between 0-9 (indicated by red numbers in image)
-	</img>
-####
-#### Operating Modes:
+    * First line must indicate the number of nodes.
+	* Node name must be numbers from 1-1000000.
+	* Weights must be between 0-9 (indicated by red numbers in image).
+	* _Note_: If desired, one can generate a random graph using the GraphGenerator.m script.
+
+### 
+### Operating Modes:
 * _Auto:_
   * Allows the user to display an individual node's shortest path tree (SPT). The output file will consist of all possible paths for all nodes in the graph.
 <p align="center">
