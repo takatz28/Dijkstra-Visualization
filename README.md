@@ -10,7 +10,7 @@ A MATLAB-based app capable of visualizing the shortest paths and spanning trees 
     * First line must indicate the number of nodes.
 	* Node name must be numbers from 1-1000000.
 	* Weights must be between 0-9 (indicated by red numbers in image).
-	* _Note_: If desired, one can generate a random graph using the GraphGenerator.m script.
+	* _Note_: If desired, one can generate a random graph using the [GraphGenerator] script.
 
 ### 
 ### Operating Modes:
@@ -25,3 +25,6 @@ A MATLAB-based app capable of visualizing the shortest paths and spanning trees 
 <p align="center">
   <img width="540" height="640" src="https://github.com/takatz28/Dijkstra-Visualization/blob/main/docs/Manual.JPG">
 </p>
+
+
+[GraphGenerator]: https://github.com/takatz28/Dijkstra-Visualization/blob/main/code/GraphGenerator.m 
