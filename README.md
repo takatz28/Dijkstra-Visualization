@@ -8,8 +8,8 @@ A MATLAB-based app capable of visualizing the shortest paths and spanning trees 
   * The file must be named 'Graph.dat', and must follow the given format:
     * Node name must be numbers from 1-1000000
 	* Weights must be between 0-9 (indicated by red numbers in image)
-<p align="center">
-  <img width="300" height="300" src="https://github.com/takatz28/Dijkstra-Visualization/blob/main/docs/GraphFormat.JPG">
+<p align="right">
+  <img width="175" height="175" src="https://github.com/takatz28/Dijkstra-Visualization/blob/main/docs/GraphFormat.JPG">
 </p>
 
 
