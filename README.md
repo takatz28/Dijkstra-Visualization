@@ -1,5 +1,5 @@
 # Dijkstra Algorithm Visualizer
-A MATLAB-based app capable of visualizing the shortest paths and spanning trees from an input directed graph.
+A MATLAB-based app capable of visualizing the shortest paths and spanning trees from an input directed graph using the Dijkstra algorithm.
 
 #### Requirements
 * Software:
